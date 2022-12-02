@@ -1,19 +1,10 @@
-@tailwind base;
-@tailwind components;
-
 /* @import "./_fonts.css"; */
-@import "./reset.css";
+@import './reset.css';
 
-* {
+/* * {
   box-sizing: border-box;
 }
 
 body {
   @apply font-sans bg-white;
-}
-
-.loading-stroke {
-  -webkit-text-stroke: 1px black;
-}
-
-@tailwind utilities;
+} */
