@@ -10,7 +10,11 @@
 		"resolveJsonModule": true,
 		"skipLibCheck": true,
 		"sourceMap": true,
-		"strict": true
+		"strict": true,
+		"preserveValueImports": false,
+		"importsNotUsedAsValues": "remove",
+		"verbatimModuleSyntax": true,
+		"types": ["svelte", "@sveltejs/kit"]
 	}
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias
 	//
