@@ -1,8 +1,8 @@
 ## lunch roulette
 
-사내 사이드 프로젝트로 회사 근처의 음식 종류를 기준으로 점심 옵션을 제안하는 점심 추천 도구입니다. 처음에 Rescript를 사용하여 개발해보고, 이후 TypeScript와 SvelteKit으로 마이그레이션 진행하였습니다. 현재 개발에 참여한 프론트엔드 코드만 해당 개인 레포지토리로 이관된 상태입니다.
+사내 사이드 프로젝트로 회사 근처의 음식 종류를 기준으로 점심 옵션을 제안하는 점심 추천 도구입니다. 처음에 Rescript와 Nextjs를 사용하여 개발해보고, 이후 TypeScript와 SvelteKit으로 마이그레이션 진행하였습니다. 현재 개발에 참여한 프론트엔드 코드만 해당 개인 레포지토리로 이관된 상태입니다.
 
-The project is a **lunch recommendation tool** designed for employees to suggest and discover lunch options based on preferences such as location and food type near the company. It simplifies lunchtime decisions by providing personalized recommendations to help employees find meals that meet their criteria. **Initially built with Rescript, the project has been rewritten using SvelteKit with TypeScript.** The frontend was developed by our internal team, while the backend was handled by another team. **This repository contains only the frontend code**.
+The project is a **lunch recommendation tool** designed for employees to suggest and discover lunch options based on preferences such as location and food type near the company. It simplifies lunchtime decisions by providing personalized recommendations to help employees find meals that meet their criteria. **Initially built with Rescript and Nextjs, the project has been rewritten using SvelteKit with TypeScript.** The frontend was developed by our internal team, while the backend was handled by another team. **This repository contains only the frontend code**.
 
 <br />
 
